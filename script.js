@@ -1,2 +1,2 @@
-alert("Hello World !")
-
+var valeur = "hello World!"
+alert(valeur)
